@@ -9,6 +9,7 @@ on:
   push:
     branches:
       - main
+      - website-improvements
 
 jobs:
   build-compiler-explorer:
