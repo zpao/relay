@@ -19,10 +19,10 @@ const {
 module.exports = {
   title: 'Relay',
   tagline: 'The GraphQL client that scales with you.',
-  url: 'https://relay.dev',
-  baseUrl: '/',
+  url: 'https://github.zpao.com',
+  baseUrl: '/relay/',
   trailingSlash: true,
-  organizationName: 'facebook',
+  organizationName: 'zpao',
   projectName: 'relay',
   scripts: [],
   favicon: 'img/favicon.png',
