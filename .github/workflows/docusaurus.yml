@@ -48,7 +48,7 @@ jobs:
         with:
           node-version: '20'
           cache: 'yarn'
-          cache-dependency-path: website/yarn.json
+          cache-dependency-path: website/yarn.lock
 
       - name: Set up Docusaurus Build Cache
         id: cache-docusaurus
