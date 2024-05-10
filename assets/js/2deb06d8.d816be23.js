@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[60688],{81588:a=>{a.exports=JSON.parse('{"label":"rust","permalink":"/relay/blog/tags/rust","allTagsPath":"/relay/blog/tags","count":1}')}}]);
