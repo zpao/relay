@@ -35,4 +35,6 @@ A React component that renders a preloaded EntryPoint.
 * `entryPointReference`: the value returned from a call to `loadEntryPoint` or acquired from the `useEntryPointLoader` hook.
 * `props`: additional runtime props that will be passed to the `Component`
 
+Dummy change to demonstrate build speed and commit size improvements.
+
 <DocsRating />
